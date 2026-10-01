@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "Work with your RiverScript transcripts in Claude: find what was said across meetings, calls, lectures and interviews, turn them into follow-ups, notes and drafts, and quote them with the transcript and date they came from.",
   "author": { "name": "RiverScript", "url": "https://riverscript.com" },
+  "homepage": "https://riverscript.com",
+  "repository": "https://github.com/lexvalo/riverscript-claude-plugin",
+  "documentationUrl": "https://riverscript.com/docs/platform-details/mcp",
   "privacyPolicyUrl": "https://riverscript.com/docs/legal/privacy",
+  "termsOfServiceUrl": "https://riverscript.com/docs/legal/terms",
+  "supportUrl": "mailto:support@riverscript.com",
   "license": "MIT"
 }
