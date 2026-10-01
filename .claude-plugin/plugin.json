@@ -10,5 +10,25 @@
   "privacyPolicyUrl": "https://riverscript.com/docs/legal/privacy",
   "termsOfServiceUrl": "https://riverscript.com/docs/legal/terms",
   "supportUrl": "https://riverscript.com/docs/support/contact",
+  "keywords": [
+    "transcription",
+    "transcripts",
+    "speech to text",
+    "meetings",
+    "meeting notes",
+    "minutes",
+    "calls",
+    "interviews",
+    "lectures",
+    "podcasts",
+    "audio",
+    "video",
+    "recordings",
+    "system audio",
+    "subtitles",
+    "translation",
+    "summaries",
+    "riverscript"
+  ],
   "license": "MIT"
 }
