@@ -13,11 +13,11 @@ This plugin bundles the RiverScript connector with four skills that tell Claude 
 
 ## Installing
 
-Install the plugin, then connect RiverScript on the plugin's **Connectors** tab and sign in with your RiverScript account. The connector is read-only: it reads your transcripts and translations and changes nothing.
+Install the plugin, then connect RiverScript on its **Connectors** tab and sign in with your RiverScript account.
 
 ## Connector
 
-The plugin points at the RiverScript MCP server at `https://riverscript.com/api/mcp/v2`, which is also listed in the Claude directory on its own. Install both and you get one set of tools, not two.
+The plugin uses the RiverScript MCP server at `https://riverscript.com/api/mcp/v2`, the same one listed in the Claude directory on its own.
 
 Documentation: [riverscript.com/docs/platform-details/mcp](https://riverscript.com/docs/platform-details/mcp)
 
