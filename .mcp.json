@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "riverscript": {
+      "type": "http",
+      "url": "https://riverscript.com/api/mcp/v2"
+    }
+  }
+}

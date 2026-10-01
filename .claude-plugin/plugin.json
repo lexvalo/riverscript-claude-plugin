@@ -1,0 +1,8 @@
+{
+  "name": "riverscript",
+  "displayName": "RiverScript",
+  "version": "1.0.0",
+  "description": "Work with your RiverScript transcripts in Claude: find what was said across meetings, calls, lectures and interviews, turn them into follow-ups, notes and drafts, and quote them with the transcript and date they came from.",
+  "author": { "name": "RiverScript", "url": "https://riverscript.com" },
+  "license": "MIT"
+}
